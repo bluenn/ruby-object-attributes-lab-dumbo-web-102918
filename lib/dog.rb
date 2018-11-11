@@ -18,13 +18,3 @@ class Dog
   end
 
 end
-
-
-
-
-
-
-
-
-
-
